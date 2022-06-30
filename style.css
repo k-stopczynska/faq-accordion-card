@@ -102,6 +102,7 @@ footer {
     position: fixed;
     bottom: 10px;
     height: 15px;
+    width: 100vw;
 }
 .attribution { 
     font-size: 11px; 
